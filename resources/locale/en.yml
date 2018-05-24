@@ -1,0 +1,58 @@
+#Generic
+btn_salvar: Save
+btn_excluir: Delete
+sim: Yes
+nao: No
+excluindo: Deleting
+idiomas_desc_pt_BR: Português
+idiomas_desc_en: English
+idiomas_desc_es: Spanish
+alert_title_sucesso: Success
+sessao_expirada: Your session has expired. Please re-log in and try again.
+app_title: SimpleApi
+
+#DataTable
+datatable_empty_table: No records found
+datatable_info: Displaying _START_ to _END_ of _TOTAL_ records
+datatable_info_empty: Showing 0 to 0 of 0 records
+datatable_info_filtered: (Filtered from _MAX_ records)
+datatable_info_postFix: ""
+datatable_info_thousands: .
+datatable_length_menu: _MENU_ results per page
+datatable_loading_records: Loading ...
+datatable_processing: Processing ...
+datatable_zero_records: No records found
+datatable_search: Search
+datatable_paginate_next: Next
+datatable_paginate_previous: Previous
+datatable_paginate_first: First
+datatable_paginate_last: Last
+datatable_sort_ascending: "Sort Ascending Columns"
+datatable_sort_descending: ": Sorting Columns Descending"
+
+#Tela Login
+login: Login
+email: Email
+password: Password
+log_in: Login
+not_connection_msg: You are offline! Please check your network.
+Error_500: Oops! Something went wrong. Try again.
+carregando: Loading
+login_vazio: The Login field can not be empty.
+senha_invalida: Invalid password.
+nao_possivel_autenticar: Could not authenticate with the reported data.
+
+#Sheet Backend
+tela_backend_configuracoes: Settings
+tela_backend_sair: Logout
+
+#Api Login
+api_login_msg_erro_ddi_invalido: Invalid DDI.
+api_login_msg_erro_numero_invalido: Invalid number.
+api_login_msg_erro_mobile_invalido: The number is not from a cell phone
+api_login_msg_erro_codigo_invalido: Invalid confirmation code.
+api_login_msg_erro_codigo_invalido_ou_expired: Confirmation code invalid.
+api_login_msg_erro_refreshtoken_invalido: Invalid RefreshToken.
+api_login_msg_sms: is the activation code of your application Fullarm
+api_login_msg_erro_id_codigo_confirmacao_invalido: Id invalid.
+api_login_msg_erro_empresa_bloqueada: Could not authenticate. Check with your system administrator.

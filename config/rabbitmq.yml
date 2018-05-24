@@ -1,0 +1,23 @@
+rabbit:
+    rabbit.connections:
+        default: &DEFAULT_CON
+            host: 127.0.0.1
+            port: 5672
+            user: admin
+            password: admin
+            vhost: simple_api
+    rabbit.producers:
+        command: &DEFAULT_P
+            connection: default
+            exchange_options: &EXCOPT
+                name: exchange_name
+                type: direct
+            queue_options:
+                name: queue_name
+        notificacao_push:
+            <<: *DEFAULT_P
+            connection: default
+            exchange_options: &EXCOPT
+                name: exchange_name
+            queue_options:
+                name: queue_name

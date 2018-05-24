@@ -1,0 +1,58 @@
+#Genericas
+btn_salvar: Salvar
+btn_excluir: Excluir
+sim: Sim
+nao: Não
+excluindo: Excluindo
+idiomas_desc_pt_BR: Português
+idiomas_desc_en: Inglês
+idiomas_desc_es: Espanhol
+alert_title_sucesso: Sucesso
+sessao_expirada: Sua sessão expirou. Refaça o login e tente novamente.
+app_title: SimpleApi
+
+#DataTable
+datatable_empty_table: Nenhum registro encontrado
+datatable_info: Mostrando de _START_ até _END_ de _TOTAL_ registros
+datatable_info_empty: Mostrando 0 até 0 de 0 registros
+datatable_info_filtered: (Filtrados de _MAX_ registros)
+datatable_info_postFix: ""
+datatable_info_thousands: .
+datatable_length_menu: _MENU_ resultados por página
+datatable_loading_records: Carregando...
+datatable_processing: Processando...
+datatable_zero_records: Nenhum registro encontrado
+datatable_search: Pesquisar
+datatable_paginate_next: Próximo
+datatable_paginate_previous: Anterior
+datatable_paginate_first: Primeiro
+datatable_paginate_last: Último
+datatable_sort_ascending: ": Ordenar colunas de forma ascendente"
+datatable_sort_descending: ": Ordenar colunas de forma descendente"
+
+#Tela Login
+login: Login
+email: Email
+senha: Senha
+log_in: Entrar
+not_connection_msg: Você está offline! Por favor verifique sua rede.
+erro_500:  Opa! Algo deu errado. Tente novamente.
+carregando: Carregando
+login_vazio: O campo Login não pode ser vazio.
+senha_invalida: Senha inválida.
+nao_possivel_autenticar: Não foi possível autenticar com os dados informados.
+
+#Tela Backend 
+tela_backend_configuracoes: Configurações
+tela_backend_sair: Encerrar Sessão
+
+#Api Login
+api_login_msg_erro_ddi_invalido: DDI inválido.
+api_login_msg_erro_numero_invalido: Número inválido.
+api_login_msg_erro_mobile_invalido: O número informando não é de um celular
+api_login_msg_erro_codigo_invalido: Código de confirmação inválido.
+api_login_msg_erro_codigo_invalido_ou_expirado: Código de confirmação inválido.
+api_login_msg_erro_refreshtoken_invalido: RefreshToken inválido.
+api_login_msg_sms: é o codigo para ativacao do seu aplicativo Fullarm
+api_login_msg_erro_id_codigo_confirmacao_invalido: Id inválido.
+api_login_msg_erro_empresa_bloqueada: Não foi possível autenticar. Entre em contado com o administrador do sistema.

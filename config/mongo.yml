@@ -1,0 +1,7 @@
+mongo:
+    mongo.connections:
+        default:
+            server:
+            database: simple_api
+            options:
+                connect: true

@@ -1,0 +1,4 @@
+monolog:
+    monolog.name: FULLARM-API
+    monolog.level:  ERROR
+    monolog.logfile: 

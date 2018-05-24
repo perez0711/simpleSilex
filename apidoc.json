@@ -1,0 +1,11 @@
+{
+  "name": "Simple API",
+  "version": "1.0.0",
+  "description": "Simple API",
+  "title": "Simple API",
+  "url" : "http://simple_api.com/api/v1",
+  "order": [
+    "Login",
+    "GetLoginToken"
+  ]
+}

@@ -1,0 +1,14 @@
+params:
+    client_id: cliente_id
+    client_secret: secret
+    api_link: 'http://api.simple.com'
+    routingKey:
+        command:
+            rk1: faRkNtcomParadox
+            rk2: faRkNtcomDsc
+    mqtt:
+        link: link_mqtt
+        porta: 8884
+        user: user
+        password: senha
+        client_id: client_id
